@@ -1,0 +1,23 @@
+   {
+    "name": "Ainz Scans",
+    "short_name": "Ainz Scans",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK6lNzUukyjNZ_hCtxGDBIEDqSnCna7P6qXBaMkWs56GcP5G2PUvwVRXm75HNgXe32HRYVIDVQQnR2Yj5wV2LWYqfqBSYc8MMhjfneKfK72HctA0aJq0Ze5LRGZdDH1oM4qh3Mq_ApEC8nBb7Sg-lpTfRluFZG_eh6lkgfTKs0qYtrn8qmJSkSPZw8/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MZBUsdnj778tPFqc3ngAlPCiUgXPvb4CIU-0y8UyJIts9UWn9U0A-uhLXXLlRhf-hTXjP_N4Jg8uNFM_xqlfrdOJJSjYNZDTjKKZVmQc9lcQIl2BG1XQANnddC1KjTO33snFKmB1AHoOEvwB68DcNbhpRGmACzxIq2k5caVIWyZZKYn56zqD4J-U/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.ainzscans.my.id"
+}
